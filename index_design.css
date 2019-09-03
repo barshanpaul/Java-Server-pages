@@ -1,0 +1,27 @@
+body
+	{
+            background-color:black;
+			
+	}
+	#d1
+	{
+		color:Black;
+		background-color:cadetblue;
+		padding:40px;
+		margin-left:430px;
+		margin-right:430px;
+		border-radius:40px;
+		border-style:dashed;
+		border-color:red;
+		border-width:20px;
+        }
+        #H
+        {
+            margin-left:40px;
+        }
+        #btn
+        {
+            margin-left:160px;
+            margin-right:100px;
+            
+        }
